@@ -8,5 +8,6 @@ Now, your task is to check the conditions of the Life Support System one by one 
 
 Study the damaged manual of the Life Support System (LSS). 
 Break it into meaningful parts, keeping the order of the elements.
-Decipher the missing pieces of text for the key elements of the LSS, and match them to the respective description. 
+
+Find out the missing pieces of text for the key elements of the LSS (whose order is mixed up) and match them to the respective description. 
 Compile a passkey from the initial capital letters of the LSS elements.  
