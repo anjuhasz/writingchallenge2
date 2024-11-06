@@ -17,17 +17,15 @@ The challenge comprises the following types of tasks :
 * Guess and write the missing parts (parts of words, full words, etc.).
 * Put the instructions in the right order.
 
-Pieces of input will be available in a dedicated GitHub repository in password-protected files. As parts of the tasks, some codes/strings need to be deciphered from the reconstructed texts, so that they can be entered as passwords for the next task.
+Pieces of input will be available in a dedicated GitHub repository in password-protected files. As parts of the tasks, some codes/strings need to be deciphered from the reconstructed texts so that they can be entered as passwords for the next task.
 
 Though radio communication is unreliable due to damaged equipment, teams may occasionally be able to establish contact with the „Mission Control” for intermittent help.
 
 The mission comprises the following challenges:
 
 1. Make your lunar rover operational according to the correct procedure.
-2. Reach the Artemis Base Camp at the lunar south pole around the Shackleton Crater.
-   Your task is to enter the right Moon coordinates into your rover's computer.
-3. Open the gates of the Surface Habitat Module with the right code, according to the right instructions.
-4. Re-pressurize the airlock vacuum chamber according to the right procedure. Re-assemble the scattered instructions.
-5. Re-initialize the infrastructure operating systems of the Surface Habitat Module of the base camp.
-6. Re-assemble the operating instructions for the food storage and processing equipment.
-7. Reconstruct the troubleshooting  instructions for the food storage and processing equipment to find out and resolve a problem.
+   With the rover, you'll be able to reach the Artemis Base Camp at the lunar south pole around the Shackleton Crater.
+2. Open the gates of the Surface Habitat Module with the right code, according to the right instructions.
+3. Re-pressurize the airlock vacuum chamber according to the right procedure. Re-assemble the scattered instructions.
+4. Re-initialize the infrastructure operating systems of the Surface Habitat Module of the base camp.
+5. Re-assemble the operating instructions for the food storage and processing equipment.
